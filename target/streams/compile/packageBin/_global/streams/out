@@ -1,0 +1,29 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging C:\Users\Sreenivas\Documents\Project\Olympics\target\scala-2.12\olympics_2.12-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Sreenivas\Documents\Project\Olympics\target\scala-2.12\classes\com[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\bigdata[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Sreenivas\Documents\Project\Olympics\target\scala-2.12\classes\com\bigdata[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\bigdata\spark[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Sreenivas\Documents\Project\Olympics\target\scala-2.12\classes\com\bigdata\spark[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\bigdata\spark\poc[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Sreenivas\Documents\Project\Olympics\target\scala-2.12\classes\com\bigdata\spark\poc[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\bigdata\spark\poc\OlympicsDataAnalysis$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Sreenivas\Documents\Project\Olympics\target\scala-2.12\classes\com\bigdata\spark\poc\OlympicsDataAnalysis$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\bigdata\spark\poc\OlympicsDataAnalysis.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Sreenivas\Documents\Project\Olympics\target\scala-2.12\classes\com\bigdata\spark\poc\OlympicsDataAnalysis.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\bigdata\spark\poc\sparkcore[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Sreenivas\Documents\Project\Olympics\target\scala-2.12\classes\com\bigdata\spark\poc\sparkcore[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\bigdata\spark\poc\sparkcore\prob1$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Sreenivas\Documents\Project\Olympics\target\scala-2.12\classes\com\bigdata\spark\poc\sparkcore\prob1$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\bigdata\spark\poc\sparkcore\prob1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Sreenivas\Documents\Project\Olympics\target\scala-2.12\classes\com\bigdata\spark\poc\sparkcore\prob1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\bigdata\spark\poc\sparkcore\prob2$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Sreenivas\Documents\Project\Olympics\target\scala-2.12\classes\com\bigdata\spark\poc\sparkcore\prob2$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\bigdata\spark\poc\sparkcore\prob2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Sreenivas\Documents\Project\Olympics\target\scala-2.12\classes\com\bigdata\spark\poc\sparkcore\prob2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\bigdata\spark\poc\sparkcore\prob3$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Sreenivas\Documents\Project\Olympics\target\scala-2.12\classes\com\bigdata\spark\poc\sparkcore\prob3$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\bigdata\spark\poc\sparkcore\prob3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Sreenivas\Documents\Project\Olympics\target\scala-2.12\classes\com\bigdata\spark\poc\sparkcore\prob3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
