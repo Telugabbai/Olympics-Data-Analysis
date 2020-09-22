@@ -13,6 +13,8 @@ and
 
 target/data/athlete_events.csv
 
+target/data/noc_regions.csv
+
 Data Set Description
 ============================
 The data set athlete_events consists of the following fields:
