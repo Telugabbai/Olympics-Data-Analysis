@@ -9,7 +9,9 @@ The Olympic Games are considered the world's foremost sports competition with mo
 The Olympic Games are held every four years, with the Summer and Winter Games alternating by occurring every four years but two years apart.
 
 Dataset is available at https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results#athlete_events.csv
-and target/data/
+and
+
+target/data/athlete_events.csv
 
 Data Set Description
 ============================
