@@ -1,9 +1,7 @@
-package com.bigdata.spark.poc.sparksql
+package com.bigdata.spark.poc.sparksql.dsl
 
-import org.apache.spark.sql.functions._
 import org.apache.spark.sql._
-import org.apache.spark.sql.types._;
-
+import org.apache.spark.sql.functions._
 
 object OlympicsDataAnalysis {
   def main(args: Array[String]) {
@@ -11,7 +9,7 @@ object OlympicsDataAnalysis {
     // val ssc = new StreamingContext(spark.sparkContext, Seconds(10))
     val sc = spark.sparkContext
     // Athlete Dataframe creation
-    val athlete_data="C:\\Users\\Sreenivas\\Documents\\Project\\Olympics\\target\\data\\athlete_events.csv"
+    val athlete_data="C:\\Users\\Sreenivas\\Documents\\Project\\Olympics\\Olympics-Data-Analysis\\target\\data\\athlete_events.csv"
     val athlete_df=spark.read.format("csv").option("header","true").option("inferSchema","true")
         .option("path",athlete_data).load()
     val athlete_df1=athlete_df.withColumn("ID", col("ID").cast("Double"))
@@ -21,7 +19,7 @@ object OlympicsDataAnalysis {
       .withColumn("Weight", col("Weight").cast("Double"))
 
     //NOC Dataframe Creation
-    val noc_data="C:\\Users\\Sreenivas\\Documents\\Project\\Olympics\\target\\data\\noc_regions.csv"
+    val noc_data="C:\\Users\\Sreenivas\\Documents\\Project\\Olympics\\Olympics-Data-Analysis\\target\\data\\noc_regions.csv"
     val noc_df=spark.read.format("csv").option("header","true").option("inferSchema","true")
       .option("path",noc_data).load()
 

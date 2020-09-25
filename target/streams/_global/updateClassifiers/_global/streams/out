@@ -1,4 +1,4 @@
 [debug] "not up to date. inChanged = true, force = false
-[debug] Updating ProjectRef(uri("file:/C:/Users/Sreenivas/Documents/Project/Olympics/"), "olympics")...
-[debug] Done updating ProjectRef(uri("file:/C:/Users/Sreenivas/Documents/Project/Olympics/"), "olympics")
+[debug] Updating ProjectRef(uri("file:/C:/Users/Sreenivas/Documents/Project/Olympics/Olympics-Data-Analysis/"), "olympics-data-analysis")...
+[debug] Done updating ProjectRef(uri("file:/C:/Users/Sreenivas/Documents/Project/Olympics/Olympics-Data-Analysis/"), "olympics-data-analysis")
 [warn] There may be incompatibilities among your library dependencies; run 'evicted' to see detailed eviction warnings.
