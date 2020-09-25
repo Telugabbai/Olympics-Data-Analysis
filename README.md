@@ -63,7 +63,7 @@ Problem Statement:-
 15. Silver Medals based on Countries
 16. Bronze Medals based on Countries
 17. Total Medals won by India
-18. Diff Medals won by India in Years wise
+18. TotalGold Medals won by Israel in Years wise
 
 
 
