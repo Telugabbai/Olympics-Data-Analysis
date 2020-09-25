@@ -50,7 +50,7 @@ object OlympicsDataAnalysis {
 
     val pb4=athlete_df1 .join(noc_df,athlete_df1("NOC")===noc_df("NOC"),"inner")
       .select("region","Medal").where("Medal == 'Gold'")
-      .groupBy("region","Medal").count().orderBy(col("Medal").asc).limit(5)
+      .groupBy("region","Medal").count().orderBy(col("Medals").desc).limit(5)
     pb4.show()
 
     // Problem Statement 5
